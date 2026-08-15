@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 954 954">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-11, .cls-7, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3, .cls-5, .cls-11, .cls-7, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4, .cls-6, .cls-11, .cls-8, .cls-10 {
+        stroke-width: .5px;
+      }
+
+      .cls-12 {
+        font-family: ArialMT, Arial;
+        font-size: 16px;
+      }
+
+      .cls-2, .cls-4, .cls-9 {
+        stroke-miterlimit: 500;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #d5d5d5;
+      }
+
+      .cls-2, .cls-5, .cls-7, .cls-9 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-6, .cls-8, .cls-10 {
+        stroke: #888;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="fixtures">
+    <g id="u_stairs_strt">
+      <g id="lbreak">
+        <polyline class="cls-8" points="165.77 267.86 197.19 276.26 199.96 270.38 201.23 280.49 203.24 277.62 233.3 285.62"/>
+        <line class="cls-8" x1="165.77" y1="258.45" x2="233.3" y2="258.45"/>
+        <line class="cls-8" x1="165.77" y1="243.45" x2="233.3" y2="243.45"/>
+        <line class="cls-8" x1="165.77" y1="228.45" x2="233.3" y2="228.45"/>
+        <line class="cls-8" x1="165.77" y1="213.45" x2="233.3" y2="213.45"/>
+        <g>
+          <line class="cls-8" x1="199.96" y1="273.45" x2="233.3" y2="273.45"/>
+          <line class="cls-8" x1="198.52" y1="273.45" x2="186.68" y2="273.45"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <polyline class="cls-5" points="787.06 480.9 787.06 830.63 434.96 830.63 434.96 759.08"/>
+      <polyline class="cls-2" points="447.27 830.38 447.27 921.41 335.98 921.41"/>
+    </g>
+  </g>
+  <g id="base">
+    <g id="wall_pony">
+      <rect class="cls-9" x="195.04" y="248.76" width="80.51" height="4" transform="translate(486.06 15.46) rotate(90)"/>
+    </g>
+    <path class="cls-4" d="M451.75,138.48v53.24c-29.4,0-53.24-23.84-53.24-53.24"/>
+    <rect class="cls-7" x="165.69" y="29.91" width="7.56" height="7.56"/>
+    <rect class="cls-7" x="315.17" y="29.91" width="7.56" height="7.56"/>
+    <polyline class="cls-1" points="472.12 29.91 165.77 29.91 165.77 138.21"/>
+    <rect class="cls-7" x="165.77" y="291.01" width="621.29" height="6.6"/>
+    <polyline class="cls-7" points="451.36 138.38 472.12 138.38 472.12 30.64 787.06 30.64 787.06 291.01 165.77 291.01 165.77 138.38 398.96 138.38"/>
+    <rect class="cls-11" x="238.26" y="135.98" width="90" height="5"/>
+    <rect class="cls-11" x="575.49" y="28.14" width="108" height="5" transform="translate(1258.99 61.28) rotate(180)"/>
+    <polyline class="cls-7" points="787.06 297.61 787.06 480.69 435.26 480.92 435.26 759.53 336.38 759.53 336.38 921.41 165.77 921.41 165.77 493.04 165.77 297.61"/>
+  </g>
+  <g id="default">
+    <g id="l_sofa_sectional_tv">
+      <g id="tv">
+        <rect class="cls-8" x="589.99" y="259.95" width="127.81" height="27"/>
+        <g>
+          <rect class="cls-8" x="602.36" y="269.43" width="103.09" height="5.75"/>
+          <line class="cls-8" x1="691.88" y1="277.47" x2="615.92" y2="277.47"/>
+          <line class="cls-8" x1="691.88" y1="277.47" x2="698.39" y2="275.18"/>
+          <line class="cls-8" x1="615.92" y1="277.47" x2="609.41" y2="275.18"/>
+        </g>
+      </g>
+      <g id="sectional_stnd">
+        <g>
+          <g>
+            <path class="cls-6" d="M724.91,56.68v30.34c0,3.27,2.68,5.95,5.95,5.95h32.34"/>
+            <path class="cls-6" d="M587.09,48.53v-4.8c0-1.41,1.15-2.57,2.57-2.57h140.69s45.93,0,45.93,0h.25c1.28,0,2.32,1.04,2.32,2.32v.25s0,45.68,0,45.68v106.26c0,1.28-1.04,2.32-2.32,2.32h-5.82"/>
+            <path class="cls-6" d="M587.62,91.75c.92.61,2.42,1.2,3.6,1.2h34.12c3.21,0,5.84-2.63,5.84-5.84v-30.78"/>
+            <path class="cls-6" d="M631.12,56.33v30.75c0,3.22,2.64,5.86,5.86,5.86h34.43c3.22,0,5.86-2.64,5.86-5.86v-30.81"/>
+            <path class="cls-6" d="M677.21,56.28v30.68c0,3.29,2.69,5.99,5.99,5.99h35.65c3.29,0,5.99-2.69,5.99-5.99v-30.53"/>
+            <path class="cls-6" d="M763.47,92.98h-28.58c-3.29,0-5.99,2.69-5.99,5.99v35.92c0,3.29,2.69,5.99,5.99,5.99h28.58"/>
+            <path class="cls-6" d="M594.25,51.85c-.38-1.86-2.04-3.27-4.01-3.27h-5.32c-2.25,0-4.09,1.84-4.09,4.09v35.03c0,2.25,1.84,4.09,4.09,4.09h5.32c2.25,0,4.09-1.84,4.09-4.09v-20.78"/>
+            <g>
+              <path class="cls-6" d="M771.56,184.5c-.29.62-.68,1.19-1.16,1.68-.67-.49-1.5-.79-2.39-.79"/>
+              <path class="cls-6" d="M756.81,185.39h-23.83c-.89,0-1.71.3-2.38.78-1.05-1.07-1.7-2.54-1.7-4.15v-35.19c0-3.27,2.68-5.95,5.95-5.95h28.61"/>
+              <path class="cls-6" d="M770.4,186.18c1.03.74,1.7,1.94,1.7,3.3v5.32c0,2.25-1.84,4.09-4.09,4.09h-35.03c-2.25,0-4.09-1.84-4.09-4.09v-5.32c0-1.36.68-2.56,1.7-3.3"/>
+            </g>
+            <path class="cls-6" d="M770.43,56.53h1.06c.69,0,1.25-.56,1.25-1.25v-10.28c0-.69-.56-1.25-1.25-1.25h-61.64c-.69,0-1.25.56-1.25,1.25v10.28c0,.69.56,1.25,1.25,1.25h15.04"/>
+            <line class="cls-6" x1="724.89" y1="56.53" x2="751.41" y2="56.53"/>
+            <rect class="cls-6" x="651.37" y="43.76" width="57.21" height="12.77" rx="1.23" ry="1.23" transform="translate(1359.95 100.3) rotate(-180)"/>
+            <path class="cls-6" d="M605.66,56.53h44.51c.68,0,1.23-.55,1.23-1.23v-10.31c0-.68-.55-1.23-1.23-1.23h-54.57c-.68,0-1.23.55-1.23,1.23v6.67"/>
+            <line class="cls-6" x1="763.17" y1="67.65" x2="763.17" y2="93.05"/>
+            <path class="cls-6" d="M763.17,93.05v27.77c0,.68.56,1.24,1.24,1.24h10.28c.68,0,1.24-.56,1.24-1.24v-62.52c0-.68-.56-1.24-1.24-1.24h-3.59"/>
+            <path class="cls-6" d="M768.77,184.65h5.93c.68,0,1.23-.55,1.23-1.23v-60.18c0-.68-.55-1.23-1.23-1.23h-10.31c-.68,0-1.23.55-1.23,1.23v48.52"/>
+            <rect class="cls-6" x="753" y="51.17" width="17.23" height="13.2" rx=".73" ry=".73" transform="translate(1317.13 581.98) rotate(-141)"/>
+            <rect class="cls-6" x="587.97" y="51.28" width="17.23" height="13.2" rx=".73" ry=".73" transform="translate(1142.19 -190.28) rotate(150)"/>
+            <rect class="cls-6" x="755.08" y="173.69" width="17.23" height="13.2" rx=".73" ry=".73" transform="translate(1431.21 -232.24) rotate(135)"/>
+            <line class="cls-10" x1="729.23" y1="144.7" x2="729.23" y2="137"/>
+            <line class="cls-6" x1="729.89" y1="95.41" x2="729.22" y2="92.78"/>
+            <line class="cls-10" x1="681.94" y1="92.81" x2="672.85" y2="92.81"/>
+            <line class="cls-10" x1="635.48" y1="92.74" x2="626.96" y2="92.74"/>
+            <line class="cls-6" x1="726.58" y1="91.29" x2="723.47" y2="90.95"/>
+          </g>
+          <rect class="cls-8" x="630.81" y="123.32" width="66" height="66"/>
+        </g>
+      </g>
+    </g>
+    <text class="cls-12" transform="translate(560.63 160.2)"><tspan x="0" y="0">Recreation Room</tspan></text>
+    <text class="cls-12" transform="translate(290.03 70.71)"><tspan x="0" y="0">Patio</tspan></text>
+  </g>
+  <g id="dimensions">
+    <text class="cls-12" transform="translate(574.56 187.56)"><tspan x="0" y="0">17&apos; 2&quot; x 14&apos; 1&quot;</tspan></text>
+    <text class="cls-12" transform="translate(300.55 217.5)"><tspan x="0" y="0">13&apos; 2&quot; x 8&apos; 1&quot;</tspan></text>
+    <text class="cls-12" transform="translate(560.63 160.2)"><tspan x="0" y="0">Recreation Room</tspan></text>
+    <text class="cls-12" transform="translate(273.91 98.07)"><tspan x="0" y="0">17&apos; x 6&apos; 1&quot;</tspan></text>
+    <text class="cls-12" transform="translate(290.03 70.71)"><tspan x="0" y="0">Patio</tspan></text>
+  </g>
+  <g id="walkthrough">
+    <polygon id="recreation" class="cls-3" points="787.06 30.64 787.06 291.01 237.3 291.01 237.3 138.48 472.12 138.48 472.12 30.64 787.06 30.64"/>
+    <rect id="patio" class="cls-3" x="165.69" y="29.91" width="306.43" height="108.3"/>
+  </g>
+</svg>
